@@ -1,3 +1,3 @@
 # SolidityContracts
 
-Landing page for all solidity contracts, for testing or otherwise.
+Landing page for all backend solidity contracts, for testing or otherwise.
